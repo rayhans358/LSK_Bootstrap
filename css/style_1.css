@@ -1,0 +1,18 @@
+.panel-form {
+  margin-top: 200px;
+  padding: 20px;
+  box-shadow:  0px 0px 10px 1px rgba(0, 0, 0, 0.56);
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 500,
+  'GRAD' 200,
+  'opsz' 48
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
